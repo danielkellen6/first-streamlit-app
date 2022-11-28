@@ -2,3 +2,11 @@ pandas
 streamlit
 plotly
 sklearn
+sentence-transformers
+spacy
+sumy
+nltk
+tqdm
+torch
+beautifulsoup4
+google
